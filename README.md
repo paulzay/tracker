@@ -1,27 +1,39 @@
-# Tracker
+# Task Tracker
+> This is a webapp for creating and managing your tasks 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
+## Project
+Task tracker allows you to create, delete and update your tasks with reminders
 
-## Development server
+## Built with
+- Angular 12
+- json-server
+- CSS
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Getting Started
+- Clone the project to your local machine;
+- `cd` into the project directory;
+- Run `npm install` to install the necessary modules;
+- Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. 
+- Run `npm run server` to start the mock backend
 
-## Code scaffolding
+## Author
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+👤 **Paul Ogolla**
 
-## Build
+- Github: [@paulzay](https://github.com/paulzay)
+- Twitter: [@paulzay](https://twitter.com/_paulzay_)
+- Linkedin: [@paulzay](https://linkedin.com/in/paulogolla)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🤝 Contributing
 
-## Running unit tests
+Contributions, issues and feature requests are welcome!
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Feel free to check the [issues page](https://github.com/paulzay/tracker/issues)
 
-## Running end-to-end tests
+## Show your support
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Give a ⭐️ if you like this project!
 
-## Further help
+## 📝 License
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+This project is free to use as learning purposes. For any external content (e.g. logo, images, ...), please contact the proper author and check their license of use.
